@@ -64,7 +64,7 @@ export async function deployContract(): Promise<void> {
         token_total_supply: MichelsonMap.fromLiteral({}),
       },
       metadata: MichelsonMap.fromLiteral({
-        "": "697066733a2f2f516d534b536567316742767167735a48784645555666414a7a567357336a6d547279794d44657459546170505443",
+        "": "",
       }),
     },
   };
